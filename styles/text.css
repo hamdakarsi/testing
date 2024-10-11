@@ -1,0 +1,71 @@
+p{
+  font-family: Roboto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.veio-stats{
+  font-size: 15px;
+  color: rgb(33, 37, 41);
+  margin-bottom: 19px;
+}
+
+
+.veio-title {
+font-family: Arial;
+font-weight: bold;;
+font-size: 18px;
+width: 280px;
+line-height: 24px;
+line-height: 24px;
+margin-bottom: 20px;
+
+
+}
+
+
+
+
+.veio-outhor{
+color:rgb(33, 37, 41); 
+font-size: 14px;
+margin-bottom: 30px ;
+}
+
+.veio-discription {
+font-size: 14px;
+color:rgb(33, 37, 41); 
+width: 280px;
+line-height: 22px;
+margin-top: 0;
+margin-bottom: 100px;
+
+}
+.apple-text{
+margin-bottom: 50px;
+font-size: 14px;
+  background-color: rgb(227, 65, 64);
+  color: wheat;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-decoration: underline;
+}
+
+.span-example{
+color: red;
+margin-left: 12px;
+
+}
+
+.span-example :hover{
+text-decoration: underline;
+}
+
+
+.shop-link {
+cursor: pointer;
+}
+.shop-link:hover{
+ text-decoration: underline;
+}
